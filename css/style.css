@@ -5,7 +5,7 @@
 }
 .carrossel .fotos{
     width: 1100%;
-    animation: animacao 22s infinite;
+    animation: animacao 30s infinite;
 }
 
 .carrossel .fotos img{
@@ -15,6 +15,7 @@
 
 @keyframes animacao {
     0% { margin-left: 0; }
+    6% { margin-left: 0; }
     9% { margin-left: -100%; }
     15% { margin-left: -100%; }
     18% { margin-left: -200%; }
