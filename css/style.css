@@ -4,8 +4,8 @@
     overflow: hidden;
 }
 .carrossel .fotos{
-    width: 900%;
-    animation: animacao 5s infinite;
+    width: 1100%;
+    animation: animacao 10s infinite;
 }
 
 .carrossel .fotos img{
