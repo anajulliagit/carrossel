@@ -5,11 +5,11 @@
 }
 .carrossel .fotos{
     width: 1100%;
-    animation: animacao 10s infinite;
+    animation: animacao 11s infinite;
 }
 
 .carrossel .fotos img{
-    width: 1920px;
+    width: 1915px;
 }
 
 @keyframes animacao {
